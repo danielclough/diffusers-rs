@@ -1,0 +1,17 @@
+rust-stable-diffusion-v1-5/
+rust-stable-diffusion-v2-1/
+venv/
+target/
+target2/
+_build/
+data/
+gen/.merlin
+**/*.rs.bk
+*.swp
+*.swo
+Cargo.lock
+__pycache__
+*~
+.*~
+sd_*jpg
+sd_*png
